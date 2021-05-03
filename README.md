@@ -32,7 +32,7 @@ The convolutional layers will extract relevant features from the images and the 
 ![Alt text](https://github.com/prasanna77cr7/Facial-Expression-Recognition/blob/main/images/boy.jpeg)
 
 ### 4. Training & Validation
-The model gives 65-66% accuracy on validation set while training the model. The CNN  model learns the representation features of emotions from the training images. Below  are few epochs of training process with batch size of 128.
+The model gives around 70% accuracy on validation set while training the model. The CNN  model learns the representation features of emotions from the training images. Below  are few epochs of training process with batch size of 128.
 
 # Demo
 ![Alt text](https://github.com/prasanna77cr7/Facial-Expression-Recognition/blob/main/images/demogif.gif)
